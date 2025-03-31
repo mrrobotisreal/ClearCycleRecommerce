@@ -23,6 +23,7 @@
       View Store
     </Button>
   </section>
+
   <footer class="bg-gray-800 text-white text-center py-4">
     <p>&copy; 2025 ClearCycle. All rights reserved.</p>
     <p>Contact us: <a href="mailto:hello@clearcycle.com" class="underline">hello@clearcycle.com</a></p>
