@@ -80,7 +80,7 @@
     <img
       src="/earth-hands.png"
       alt="Earth with grass and dew"
-      style="width: 100%; height: 300px; object-fit: cover; margin-bottom: 2rem;"
+      style="width: 100%; height: 340px; object-fit: cover; margin-bottom: 2rem;"
     />
 
     <h1 style="color: #1A2A44;" class="text-4xl font-bold mb-6">About ClearCycle</h1>
